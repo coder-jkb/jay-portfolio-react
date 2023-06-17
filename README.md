@@ -1,6 +1,8 @@
-#### Portfolio in Neumorphism UI/UX Design built with ReactJs.
+#### My Portfolio website
 
-Portfolio/Resume Website using ReactJS.
+Portfolio/Resume Website built using ReactJS.
+
+[🔗 visit my portfolio website 👈](https://jaykb.netlify.app "Jay's Homepage")
 
 ## Steps to contribute:
 
