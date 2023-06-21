@@ -16,9 +16,15 @@ class Proj extends Component {
           <div className="proj-right">
             <div className="proj-desc">
               {this.props.desc.slice(0, 160)}...{" "}
-              <Link to={this.props.link} target="_blank" className="proj-link">
+
+              <a
+                className="proj-link"
+                href={this.props.link}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 {this.props.link_text}
-              </Link>
+              </a>
             </div>
           </div>
         </div>

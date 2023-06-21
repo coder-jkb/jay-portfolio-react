@@ -40,6 +40,7 @@ class Navbar extends Component {
           <a
             className="back3"
             target="_blank"
+            rel="noreferrer"
             href="https://drive.google.com/file/d/15eAynkNCpUDH9M6DL2ngLbAZTIy7Y4X7/view?usp=sharing"
           >
             <i className="fa fa-download fa-sm fa-fw" aria-hidden="true"></i>{" "}
@@ -48,13 +49,11 @@ class Navbar extends Component {
 
           <a
             className="back3"
-            target="_blank"
             href="mailto:youremail@gmail.com"
           >
             <i className="fa fa-envelope fa-sm fa-fw" aria-hidden="true"></i>{" "}
             Email
           </a>
-
         </div>
       </nav>
     );

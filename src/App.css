@@ -664,9 +664,6 @@ mark {
       font-size: var(--typing-font);
     }
 
-
-  .p10{
-  }
   .back2 {
     z-index: 1;
     top: 3%;
@@ -725,6 +722,7 @@ mark {
   
   .social
   {
+        position: relative;
     width: 90%;
     bottom: 5%;
     right: 5%;
